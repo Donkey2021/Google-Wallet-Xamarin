@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "googlewallet.Android", "googlewallet\googlewallet.Android\googlewallet.Android.csproj", "{6401928B-A399-4BA2-8949-5E38ECDBB32D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "googlewallet", "googlewallet\googlewallet\googlewallet.csproj", "{630415D7-A798-42AD-B39E-1E316765BCD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		ReleaseSigned|Any CPU = ReleaseSigned|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6401928B-A399-4BA2-8949-5E38ECDBB32D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6401928B-A399-4BA2-8949-5E38ECDBB32D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6401928B-A399-4BA2-8949-5E38ECDBB32D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6401928B-A399-4BA2-8949-5E38ECDBB32D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6401928B-A399-4BA2-8949-5E38ECDBB32D}.ReleaseSigned|Any CPU.ActiveCfg = Debug|Any CPU
+		{6401928B-A399-4BA2-8949-5E38ECDBB32D}.ReleaseSigned|Any CPU.Build.0 = Debug|Any CPU
+		{630415D7-A798-42AD-B39E-1E316765BCD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{630415D7-A798-42AD-B39E-1E316765BCD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{630415D7-A798-42AD-B39E-1E316765BCD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{630415D7-A798-42AD-B39E-1E316765BCD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{630415D7-A798-42AD-B39E-1E316765BCD7}.ReleaseSigned|Any CPU.ActiveCfg = Debug|Any CPU
+		{630415D7-A798-42AD-B39E-1E316765BCD7}.ReleaseSigned|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DB10518-B84A-40F1-81E3-1937413A349E}
+	EndGlobalSection
+EndGlobal
